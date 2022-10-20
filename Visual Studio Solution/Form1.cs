@@ -5,6 +5,9 @@ namespace ClarionToDotNet
 {
     public partial class Form1 : Form
     {
+        [DllImport(@"ClaRUN.dll")]
+        public static extern void AttachThreadToClarion(bool pAllocate);
+
         [DllImport(@"ClarionToDotNetDLL.dll")]
         public static extern void HelloFromClarion();
 
@@ -17,6 +20,7 @@ namespace ClarionToDotNet
         public Form1()
         {
             InitializeComponent();
+            AttachThreadToClarion(true);
         }
 
         private void button1_Click(object sender, EventArgs e)

@@ -1,6 +1,10 @@
 # ClarionToDotNET
 Demonstrates calling Clarion procedures from a .NET WinForms application.
 
+Clarion 11.0.13630
+
+No 3rd Party Templates
+
 Includes TXA of Clarion application.
 
 Visual Studio solution uses VS 2022.

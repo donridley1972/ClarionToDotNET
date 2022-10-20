@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32916.344
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClarionToDotNet", "ClarionToDotNet.csproj", "{DE13BA81-0D48-4602-9F60-DEEC0CFCEA70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE13BA81-0D48-4602-9F60-DEEC0CFCEA70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE13BA81-0D48-4602-9F60-DEEC0CFCEA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE13BA81-0D48-4602-9F60-DEEC0CFCEA70}.Debug|x86.ActiveCfg = Debug|x86
+		{DE13BA81-0D48-4602-9F60-DEEC0CFCEA70}.Debug|x86.Build.0 = Debug|x86
+		{DE13BA81-0D48-4602-9F60-DEEC0CFCEA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE13BA81-0D48-4602-9F60-DEEC0CFCEA70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE13BA81-0D48-4602-9F60-DEEC0CFCEA70}.Release|x86.ActiveCfg = Release|x86
+		{DE13BA81-0D48-4602-9F60-DEEC0CFCEA70}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3E384DF-1DCE-4736-8B73-A8AD5A917BA9}
+	EndGlobalSection
+EndGlobal

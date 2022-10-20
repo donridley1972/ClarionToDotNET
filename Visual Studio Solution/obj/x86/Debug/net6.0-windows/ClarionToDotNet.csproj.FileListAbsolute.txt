@@ -1,0 +1,17 @@
+C:\Users\Don\source\repos\ClarionToDotNet\bin\x86\Debug\net6.0-windows\ClarionToDotNet.exe
+C:\Users\Don\source\repos\ClarionToDotNet\bin\x86\Debug\net6.0-windows\ClarionToDotNet.deps.json
+C:\Users\Don\source\repos\ClarionToDotNet\bin\x86\Debug\net6.0-windows\ClarionToDotNet.runtimeconfig.json
+C:\Users\Don\source\repos\ClarionToDotNet\bin\x86\Debug\net6.0-windows\ClarionToDotNet.dll
+C:\Users\Don\source\repos\ClarionToDotNet\bin\x86\Debug\net6.0-windows\ClarionToDotNet.pdb
+C:\Users\Don\source\repos\ClarionToDotNet\obj\x86\Debug\net6.0-windows\ClarionToDotNet.csproj.AssemblyReference.cache
+C:\Users\Don\source\repos\ClarionToDotNet\obj\x86\Debug\net6.0-windows\ClarionToDotNet.Form1.resources
+C:\Users\Don\source\repos\ClarionToDotNet\obj\x86\Debug\net6.0-windows\ClarionToDotNet.csproj.GenerateResource.cache
+C:\Users\Don\source\repos\ClarionToDotNet\obj\x86\Debug\net6.0-windows\ClarionToDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Don\source\repos\ClarionToDotNet\obj\x86\Debug\net6.0-windows\ClarionToDotNet.AssemblyInfoInputs.cache
+C:\Users\Don\source\repos\ClarionToDotNet\obj\x86\Debug\net6.0-windows\ClarionToDotNet.AssemblyInfo.cs
+C:\Users\Don\source\repos\ClarionToDotNet\obj\x86\Debug\net6.0-windows\ClarionToDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Don\source\repos\ClarionToDotNet\obj\x86\Debug\net6.0-windows\ClarionToDotNet.dll
+C:\Users\Don\source\repos\ClarionToDotNet\obj\x86\Debug\net6.0-windows\refint\ClarionToDotNet.dll
+C:\Users\Don\source\repos\ClarionToDotNet\obj\x86\Debug\net6.0-windows\ClarionToDotNet.pdb
+C:\Users\Don\source\repos\ClarionToDotNet\obj\x86\Debug\net6.0-windows\ClarionToDotNet.genruntimeconfig.cache
+C:\Users\Don\source\repos\ClarionToDotNet\obj\x86\Debug\net6.0-windows\ref\ClarionToDotNet.dll

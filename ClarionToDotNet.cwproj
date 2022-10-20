@@ -1,0 +1,57 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{34D32C68-CE4F-468E-98B3-50009B4E6853}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">Win32</Platform>
+    <OutputType>Library</OutputType>
+    <RootNamespace>ClarionToDotNet</RootNamespace>
+    <AssemblyName>ClarionToDotNet</AssemblyName>
+    <OutputName>ClarionToDotNetDLL</OutputName>
+    <CWOutputType>Exe</CWOutputType>
+    <DefineConstants>_ABCDllMode_=&gt;0%3b_ABCLinkMode_=&gt;1</DefineConstants>
+    <Model>Dll</Model>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <vid>full</vid>
+    <check_stack>True</check_stack>
+    <check_index>True</check_index>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <vid>off</vid>
+    <check_stack>False</check_stack>
+    <check_index>False</check_index>
+  </PropertyGroup>
+  <ItemGroup>
+    <FileDriver Include="ASCII" />
+    <FileDriver Include="TOPSPEED" />
+    <Compile Include="ClarionToDotNet.clw">
+      <Generated>true</Generated>
+    </Compile>
+    <Compile Include="ClarionToDotNet001.clw">
+      <Generated>true</Generated>
+    </Compile>
+    <Compile Include="ClarionToDotNet002.clw">
+      <Generated>true</Generated>
+    </Compile>
+    <Compile Include="ClarionToDotNet003.clw">
+      <Generated>true</Generated>
+    </Compile>
+    <Compile Include="ClarionToDotNet004.clw">
+      <Generated>true</Generated>
+    </Compile>
+    <Compile Include="ClarionToDotNet005.clw">
+      <Generated>true</Generated>
+    </Compile>
+    <Compile Include="CLARIONTODOTNET_BC.CLW">
+      <Generated>true</Generated>
+    </Compile>
+    <Compile Include="ClarionToDotNet_BC0.CLW">
+      <Generated>true</Generated>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(ClarionBinPath)\SoftVelocity.Build.Clarion.targets" />
+</Project>
